@@ -1,0 +1,17 @@
+langchain-community
+langchain-openai
+unstructured
+faiss-cpu
+langgraph
+unstructured-pytesseract
+unstructured-inference
+pymupdf
+pdfminer.six
+pillow
+pi-heif
+langchain
+pdf2image
+rank-bm25
+sentence-transformers
+numpy
+gradio
